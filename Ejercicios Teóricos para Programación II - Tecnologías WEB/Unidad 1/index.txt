@@ -1,0 +1,59 @@
+1. Definición de Internet:
+¿Qué es Internet y cuál es su importancia en la infraestructura de la
+Web?
+Describe brevemente la evolución de ARPANET a Internet.
+2. Protocolos de Comunicación:
+Explica la función del protocolo TCP/IP en Internet.
+¿Qué es una dirección IP y cuál es la diferencia entre una IP pública y
+una privada?
+3. Infraestructura de Internet:
+¿Qué elementos componen la infraestructura de comunicación de
+Internet?
+Menciona y explica brevemente el rol de los satélites, antenas y cables
+submarinos en Internet.
+4. Conceptos Básicos de la Web:
+Introducción a las tecnologías web 2
+Define y explica la importancia de los siguientes términos: HTML, URL,
+y HTTP/HTTPS.
+¿Cuál es la relación entre Internet y la Web?
+
+
+
+RESPUESTAS:
+1-A Internet es la columna vertebral de la Web, la
+infraestructura técnica que hace posible la
+Web. En su forma más básica, Internet es una
+gran red de computadoras que se comunican
+todas juntas.
+1-B Todo comenzó en la década de 1960, como una
+forma para que entidades gubernamentales
+(científicas y militares) compartieran información.
+Con el calentamiento de la Guerra Fría, en 1969
+EE.UU. crea la ARPANET (Red de Agencias de
+Proyectos de Investigación Avanzada), la red que
+finalmente evolucionó hasta convertirse en lo que
+ahora conocemos como Internet.
+El 1 de enero de 1983 se considera el nacimiento
+oficial de Internet ya que se lanzó el protocolo TCP/IP
+que permitió que diferentes tipos de computadoras
+compartieran información entre sí. ARPANET adopta
+este protocolo y quedó establecido el lenguaje
+universal de comunicación entre todas las
+computadoras.
+2-A El Protocolo de Control de Transmisión y el Protocolo de Internet son protocolos de comunicación
+que definen cómo deben viajar los datos a través de Internet. Divide los datos en paquetes y los une entre
+origen y destino.
+2-B 
+Una dirección IP es un identificador único para dispositivos en una red. La IP pública es accesible desde Internet, única globalmente, y asignada por un ISP. La IP privada se usa en redes internas, no es accesible desde Internet, y puede repetirse en diferentes redes privadas.
+3-A La infraestructura de comunicación de Internet incluye routers, switches, servidores, cables de fibra óptica, centros de datos, satélites, y torres de telecomunicaciones. Estos componentes permiten la transmisión de datos y la interconexión global entre dispositivos y redes.
+3-B Los satelites proveen conectividad en áreas remotas donde no llegan otras formas de infraestructura, facilitando el acceso a Internet vía comunicación por microondas desde el espacio.
+Las antenas son utilizadas en redes móviles y de radio para transmitir y recibir señales de Internet, especialmente en redes celulares y Wi-Fi.
+Los cables submarinos transportan grandes volúmenes de datos entre continentes a través de los océanos, formando el núcleo de la infraestructura de Internet global.
+4-A HTML: Es el lenguaje estándar para crear y estructurar páginas web. Define el contenido y la estructura, como texto, imágenes, y enlaces. Es fundamental porque es la base de cualquier sitio web.
+URL: Es la dirección única de un recurso en Internet, como una página web o un archivo. Permite a los usuarios y navegadores localizar y acceder a recursos específicos en la web.
+HTML/HTTPS: Son protocolos que permiten la transferencia de datos entre un navegador y un servidor web. HTTP es no seguro, mientras que HTTPS incluye cifrado para proteger la información, siendo crucial para la seguridad en la web.
+4-B Internet es la red global que conecta dispositivos en todo el mundo, mientras que la Web es un servicio que opera sobre Internet, permitiendo acceder y compartir información a través de páginas web. La Web es una parte de Internet, pero Internet incluye muchos otros servicios, como el correo electrónico y el intercambio de archivos.
+
+
+
+

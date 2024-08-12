@@ -1,0 +1,35 @@
+Unidad 2: HTML5
+1. Estructura de HTML:
+¿Qué es HTML y cuál es su propósito principal en la Web?
+Escribe una estructura básica de un documento HTML y explica cada
+una de sus partes principales.
+2. Etiquetas HTML:
+¿Qué son las etiquetas en HTML y cómo se utilizan?
+Menciona y describe brevemente al menos cinco etiquetas comunes en
+HTML.
+3. Atributos HTML:
+¿Qué son los atributos en HTML y para qué se utilizan?
+Da un ejemplo de una etiqueta HTML con atributos y explica su función.
+
+
+RESPUESTAS:
+1-A HTML es un lenguaje de marcado que utiliza
+una serie de códigos llamados etiquetas que
+van definiendo los elementos que componen
+una página web, es decir, su estructura: texto,
+imágenes, etc. Estas etiquetas serán
+interpretadas por un programa navegador de
+internet que mostrará adecuadamente la
+página web al usuario.
+1-B El propósito de HTML en la Web es definir el esqueleto de la página, definiendo sus componentes en etiquetas.
+2-A Las etiquetas en HTML son los elementos fundamentales que se utilizan para estructurar y presentar contenido en una página web.
+2-B <p>: Se utiliza para definir un párrafo de texto. Agrupa bloques de texto y deja un espacio en blanco (margen) entre un párrafo y el siguiente.
+<a>: Crea un hipervínculo que permite al usuario navegar a otra página o recurso. Utiliza el atributo href para especificar la URL de destino.
+<img>: Se utiliza para insertar una imagen en una página web. Requiere el atributo src para especificar la ruta de la imagen y el atributo alt para proporcionar un texto alternativo.
+<ul>: Define una lista no ordenada (con viñetas), y <li> se utiliza para definir cada elemento dentro de la lista.
+<div>: Sirve como un contenedor genérico para agrupar elementos en un bloque. Es útil para aplicar estilos o scripts a un grupo de elementos.
+3-A Los atributos en HTML son propiedades que se añaden a las etiquetas para proporcionar información adicional sobre cómo deben comportarse o cómo deben ser presentados los elementos
+3-B Doy un ejemlo con la etiqueta "a":
+<a href="https://www.example.com" target="_blank">Visitar</a>
+href: Especifica la URL a la que el enlace llevará al hacer clic.
+target="_blank": Indica que el enlace debe abrirse en una nueva pestaña o ventana del navegador.

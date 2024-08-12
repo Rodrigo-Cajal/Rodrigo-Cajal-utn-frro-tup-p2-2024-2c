@@ -1,0 +1,11 @@
+Unidad 3: CSS3
+1. Definición y Uso de CSS:
+¿Qué es CSS y cuál es su papel en el diseño de páginas web?
+Explica cómo CSS puede cambiar la apariencia de una página HTML.
+2. Selectores y Propiedades CSS:
+¿Qué es un selector en CSS y cuáles son los tipos más comunes?
+Menciona y describe cinco propiedades de CSS con ejemplos de uso.
+3. Diseño Responsivo:
+¿Qué es el diseño responsivo y por qué es importante en el desarrollo
+web moderno?
+Explica cómo se puede lograr un diseño responsivo utilizando CSS.
